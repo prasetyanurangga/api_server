@@ -6,11 +6,8 @@
       "data" : {
         "id" : "1",
         "nama": "Angga",
-      "email" : "email"
+        "email" : "email"
       }
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
