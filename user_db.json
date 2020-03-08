@@ -1,9 +1,15 @@
 {
-  "status" : "berhasil",
-  "message" : "Horrey Berhasil",
-  "data" : {
-    "id" : "1",
-    "nama": "Angga",
-    "email" : "email"
+  "posts": [
+    {
+      "status" : "berhasil",
+      "message" : "Horrey Berhasil",
+      "data" : {
+        "id" : "1",
+        "nama": "Angga",
+      "email" : "email"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
   }
 }
