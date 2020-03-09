@@ -1,7 +1,7 @@
 {
   "users": [
     {
-      "status" : "berhasil",
+      "success" : "berhasil",
       "message" : "Horrey Berhasil",
       "data" : {
         "id" : "1",
