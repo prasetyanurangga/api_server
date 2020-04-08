@@ -26,18 +26,6 @@
             {"url":"https://icons8.com/wp-content/uploads/2020/02/digital-illustration-brian-edward-miller.jpg"},
             {"url":"https://icons8.com/wp-content/uploads/2020/02/digital-illustration-brian-edward-miller.jpg"}
           ]
-        },
-        {
-          "id" : "2",
-          "isi_berita": "LOrem Ipsum Dolor Sir Amer",
-          "pengirim" : "Angga Nur Prasetya",
-          "avatar": "https://i.pinimg.com/originals/b1/bb/ec/b1bbec499a0d66e5403480e8cda1bcbe.png",
-          "status":"Progress",
-          "foto":[
-            {"url":"https://icons8.com/wp-content/uploads/2020/02/digital-illustration-brian-edward-miller.jpg"},
-            {"url":"https://icons8.com/wp-content/uploads/2020/02/digital-illustration-brian-edward-miller.jpg"},
-            {"url":"https://icons8.com/wp-content/uploads/2020/02/digital-illustration-brian-edward-miller.jpg"}
-          ]
         }
       ]
     }
