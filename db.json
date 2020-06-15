@@ -31,10 +31,12 @@
     }
   ],
   "user":[
-    "id": "1",
-    "name" : "Angga",
-    "email": "angganurprasetya4@gmail.com",
-    "avatar" : "https://image.freepik.com/free-vector/loss-job-due-coronavirus-crisis_23-2148569784.jpg"
+    {
+      "id": "1",
+      "name" : "Angga",
+      "email": "angganurprasetya4@gmail.com",
+      "avatar" : "https://image.freepik.com/free-vector/loss-job-due-coronavirus-crisis_23-2148569784.jpg" 
+    }
   ]
 
 }
