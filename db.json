@@ -30,7 +30,7 @@
       ]
     }
   ],
-  user:[
+  "user":[
     "id": "1",
     "name" : "Angga",
     "email": "angganurprasetya4@gmail.com",
