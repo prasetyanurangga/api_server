@@ -1,42 +1,32 @@
 {
-  "users": [
-    {
-      "success" : "berhasil",
-      "message" : "Horrey Berhasil",
-      "data" : {
-        "id" : "1",
-        "nama": "Angga",
-        "email" : "email"
-      }
-    }
-  ],
-  "berita": [
-    {
-      "success" : "berhasil",
-      "message" : "Horrey Berhasil",
-      "data" : [
-        {
-          "id" : "1",
-          "isi_berita": "LOrem Ipsum Dolor Sir Amer",
-          "pengirim" : "Angga Nur Prasetya",
-          "avatar": "https://i.pinimg.com/originals/b1/bb/ec/b1bbec499a0d66e5403480e8cda1bcbe.png",
-          "status":"Progress",
-          "foto":[
-            {"url":"https://icons8.com/wp-content/uploads/2020/02/digital-illustration-brian-edward-miller.jpg"},
-            {"url":"https://icons8.com/wp-content/uploads/2020/02/digital-illustration-brian-edward-miller.jpg"},
-            {"url":"https://icons8.com/wp-content/uploads/2020/02/digital-illustration-brian-edward-miller.jpg"}
-          ]
-        }
-      ]
-    }
-  ],
-  "user":[
-    {
-      "id": "1",
-      "name" : "Angga",
-      "email": "angganurprasetya4@gmail.com",
-      "avatar" : "https://image.freepik.com/free-vector/loss-job-due-coronavirus-crisis_23-2148569784.jpg" 
-    }
-  ]
+  
+  "catogory_repos" : {
+		"mobile" : [
+			"Kotlin",
+			"Java"
+		],
+		"web" : [
+			"Go",
+			"PHP",
+			"CSS",
+			"HTML",
+			"Python"
+		]
+	},
+  
+  user : {
+	  "nama" : "Angga Nur Prasetya",
+	  "short_desc" : "Hey, I'm Angga",
+	  "description" : "",
+	  "avatar_url" : "https://avatars3.githubusercontent.com/u/35420062?v=4",
+	  "url_cv" : "",
+	  "skill":[
+			{"name" : "Kotlin", "value":"80"},
+			{"name" : "Java", "value":"90"},
+			{"name" : "Flutter", "value":"80"},
+			{"name" : "PHP", "value":"80"},
+			{"name" : "SQL", "value":"80"}
+	  ]
+  }
 
 }
