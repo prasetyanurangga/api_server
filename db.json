@@ -27,7 +27,7 @@
 			{"name" : "PHP", "value":"80"},
 			{"name" : "SQL", "value":"80"}
 	  ]
-  }
+  },
   "package" :{
   "name": "chat_base",
   "version": "1.0.2",
